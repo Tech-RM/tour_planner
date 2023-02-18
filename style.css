@@ -38,3 +38,11 @@ body{
 .front-page-image{
     width: 100vh;
 }
+
+.front-page{
+    text-shadow: 10px;
+    color: brown;
+    text-align: center;
+    font-size: 100px;
+    margin-top: 200px;
+}
